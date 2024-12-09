@@ -58,7 +58,7 @@ Você está preparado(a)?
 
 ## 🌐 Acesse o Projeto
 
-Clique [aqui](https://seu-link-aqui.com) para visualizar a landing page.
+Clique [aqui](https://gabrieodev.github.io/Landing-Page-Mundo-Invertido/) para visualizar a landing page.
 
 ---
 
